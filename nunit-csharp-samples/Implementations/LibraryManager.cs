@@ -3,7 +3,7 @@
 /// </summary>
 public class LibraryManager : ILibraryManager
 {
-    private List<Book> _books;
+    private List<Book> _books = new();
     public List<Book> Books { get => _books; }
 
     /// <summary>

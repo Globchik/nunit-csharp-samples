@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wbiX9LRnGgJ3B2xELQ5PNjMo74L5o731s0P+1jDTiSWeMWX9zTbb/aLVA3aOHTNH2liNO3YaS38RfYiq08xoAQ==",
+  "dgSpecHash": "AKz0KHzFZU2AU+LbmGn0wBPV4FqEbnrK507ImWdmYCawLj6vSQB+J+GhdHhs4CQydEZT4nv5h1zPMteMo56I3w==",
   "success": true,
   "projectFilePath": "D:\\College\\C_sharp_proj\\GitTask\\nunit-csharp-samples\\nunit-csharp-samples\\nunit-csharp-samples.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Artem\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
