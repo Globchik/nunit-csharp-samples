@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 public class LibraryStatisticsAnalyzer
 {
     private readonly LibraryManager _manager;
@@ -14,8 +16,11 @@ public class LibraryStatisticsAnalyzer
     /// <returns>Book list.</returns>
     public List<Book> GetBooksByAuthor(string author)
     {
-        // TODO step 3.
-        return [];
+        List<Book> answ = new();
+        foreach (Book i in _manager.Books)
+            if (i.Author == author)
+                answ.Add(i);
+        return answ;
     }
     
     /// <summary>
@@ -23,10 +28,12 @@ public class LibraryStatisticsAnalyzer
     /// </summary>
     /// <param name="title">Book title.</param>
     /// <returns>Book.</returns>
-    public Book GetBookByTitle(string title)
+    public Book? GetBookByTitle(string title)
     {
-        // TODO step 3.
-        return new Book();
+        foreach (Book i in _manager.Books)
+            if (i.Title == title)
+                return i;
+        return null;
     }
 
     /// <summary>
@@ -34,9 +41,11 @@ public class LibraryStatisticsAnalyzer
     /// </summary>
     /// <param name="articul">Book articul.</param>
     /// <returns>Book.</returns>
-    public Book GetBookByArticul(string articul)
+    public Book? GetBookByArticul(string articul)
     {
-        // TODO step 3.
-        return new Book();
+        foreach (Book i in _manager.Books)
+            if (i.Articul == articul)
+                return i;
+        return null;
     }
 }
