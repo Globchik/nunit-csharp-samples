@@ -1,0 +1,12 @@
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.csproj.AssemblyReference.cache
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.AssemblyInfoInputs.cache
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.AssemblyInfo.cs
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.csproj.CoreCompileInputs.cache
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net6.0\nunit-csharp-samples.deps.json
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net6.0\nunit-csharp-samples.dll
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net6.0\nunit-csharp-samples.pdb
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.dll
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\refint\nunit-csharp-samples.dll
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\nunit-csharp-samples.pdb
+D:\College\C_sharp_proj\GitTask\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net6.0\ref\nunit-csharp-samples.dll
