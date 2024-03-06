@@ -3,6 +3,12 @@
 /// </summary>
 public class LibraryManager : ILibraryManager
 {
+
+    /// <summary>
+    /// Gets or sets a book articul.
+    /// </summary>
+    public string Articul { get; set; }
+
     private List<Book> _books;
 
     /// <summary>
@@ -11,8 +17,8 @@ public class LibraryManager : ILibraryManager
     /// <param name="book">The book to add.</param>
     public void AddBook(Book book)
     {
-        _books.Add(book);
-        // TODO step 2.
+        if(Articul is not null && Articul != String.Empty)
+            _books.Add(book);
     }
 
     /// <summary>
